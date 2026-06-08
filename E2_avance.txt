@@ -1,0 +1,3 @@
+En este avance estoy comenzando a darle forma a las mecánicas de los obstáculos que aparecen en el juego, que simulan ser lo que vendría siendo autos los cuadrados y bicicletas, los triángulos, y el personaje principal, que aún es un circulo verde, tendría que ir comiendo manzanas sin colisionar con ningún obstáculo, hasta llenar una barra de comida que detona el evento del jefe final, pero eso aún no lo he programado.
+Los obstáculos se generan de manera aleatoria, y al chocar contra los bordes del tablero, pierdes, o al colisionar contra un obstáculo igual, pierdes 
+solo ganas cuando consigues comerte 5 manzanas.
